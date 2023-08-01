@@ -1,4 +1,4 @@
-# EDR_Tester
+# SIEM Tester
 This batch script file wants to check your EDR systems detection and response capabilities in a more noisy way!
 Please wait..until EDR testing script finish its Jobs, then you should check your existing or future EDR log events!
 You can use this script when you are testing various EDR and NTA products!
